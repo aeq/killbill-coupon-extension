@@ -24,6 +24,7 @@ The extension for the coupon feature on Killbill. This extension must be used wi
 * Install the [Coupon-plugin-for-KillBill](https://github.com/aeq/Coupon-plugin-for-KillBill)
      
 
+For more information, please contact [Aequilibrium](http://www.aequilibrium.ca)
 
 
 
